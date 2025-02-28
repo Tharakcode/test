@@ -1,1 +1,8 @@
-ECHO is on.
+hi hello
+how are u 
+i am fine
+what about u
+are u doing well
+yes i am doing well
+i recently joined an internship in a company known as zoho, a mnc company! 
+which is very cool!
